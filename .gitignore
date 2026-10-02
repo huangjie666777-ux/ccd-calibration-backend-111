@@ -8,3 +8,5 @@ __pycache__/
 *.pem
 build/
 dist/
+examples/batch/
+ccd_calibration_package.zip
